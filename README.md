@@ -9,16 +9,16 @@
 
 🔐 Responsable
 
-⚡ Con gran energia 
+⚡ Con gran energía 
 
 📖 Autodidacta
 
-⭐ Con muchisimas ganas de aprender y superarme
+⭐ Con muchísimas ganas de aprender y superarme
 
 ### Mis conocimientos
 
 📕 Html  
-  - Distinto metodos de maquetación de sitios web
+  - Distinto métodos de maquetación de sitios web
   - Diseños responsive junto con css
 
 📗 CSS
