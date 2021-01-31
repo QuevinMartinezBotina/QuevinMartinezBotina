@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+###⌨️ Programador apacionado con gran dedicación y la mejor energia ⌨️###
+
+⏰ Muy puntual y reponsable 
+⚡ Con gran energia y autodidáctico
 
 
 
-![Codeship (branch)](https://img.shields.io/codeship/QuevinMartinezBotina/Mi%20portafolio?color=green&label=HMTL&logoColor=Blue&style=for-the-badge)
+
 
 
 
