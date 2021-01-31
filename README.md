@@ -32,7 +32,7 @@
   
 📙PHP  
   - Manejo avanzado del lenguaje
-  - Creación de proyectos funcionales con el
+  - Creación de proyectos funcionales
   
 📒JS
   - Manejo intermedio
