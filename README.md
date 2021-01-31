@@ -4,7 +4,8 @@
 
 ### Mis fortalezas 
 
-⏰ Muy puntual y reponsable 
+⏰ Muy puntual y reponsable
+
 ⚡ Con gran energia y autodidáctico
 
 
