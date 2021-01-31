@@ -18,7 +18,7 @@ Manejando desde diseño y normalización de bases de datos, hasta consultas y ma
 
 Creación de proyectos personales y para empresas utilizando mis conocimientos. 
 
-⚡ Destacando siempre mi gran voracidad de conocimiento, nuevos retos y mi gran dedicación ante cualquier nueva oportunidad de crecimiento⚡
+⚡ ###  Destacando siempre mi gran voracidad de conocimiento, nuevos retos y mi gran dedicación ante cualquier nueva oportunidad de crecimiento⚡
 
 
 
