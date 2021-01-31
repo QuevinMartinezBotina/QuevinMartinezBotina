@@ -6,7 +6,9 @@
 
 ⏰ Muy puntual y reponsable
 
-⚡ Con gran energia y autodidáctico
+⚡ Con gran energia y autodidacta
+sad
+asd
 
 
 
