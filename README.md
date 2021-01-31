@@ -1,24 +1,43 @@
 
 ###  Hola 👋
 
-⌨️ Programador apacionado con gran dedicación y la mejor energía ⌨️
+⌨️ Programador apasionado con gran dedicación y la mejor energía ⌨️
 
 ### Mis fortalezas 
 
-⏰ Muy puntual y reponsable
+⏰ Muy puntual 
 
-⚡ Con gran energia y autodidacta
+🔐 Responsable
+
+⚡ Con gran energia 
+
+📖 Autodidacta
+
+⭐ Con muchisimas ganas de aprender y superarme
 
 ### Mis conocimientos
 
-📕 Html,  📗 CSS,  📘SQL,  📙PHP,  📒JS
+📕 Html  
+  - Distinto metodos de maquetación de sitios web
+  - Diseños responsive junto con css
 
-Teniendo variados conocimientos de distintos tipos de maquetación de sitios web, Pre procederes de CSS como como SASS o LESS, FrameWorks como Bootstrap.
+📗 CSS
+  - Manejo de preprocesadores ##SASS y ##LESS
+  - Animaciones 
+  - Manejo de responsive 
 
-Manejando desde diseño y normalización de bases de datos, hasta consultas y manejo de bases de datos.
-
-Creación de proyectos personales y para empresas utilizando mis conocimientos. 
-
+📘SQL 
+  - Normalización y creación de bases de datos
+  - Manejo de consultas y reportes 
+  
+📙PHP  
+  - Manejo avanzado del lenguaje
+  - Creación de proyectos funcionales con el
+  
+📒JS
+  - Manejo intermedio
+  - En aprendizaje 
+  
 ⚡ Destacando siempre mi gran voracidad de conocimiento, nuevos retos y mi gran dedicación ante cualquier nueva oportunidad de crecimiento⚡
 
 
