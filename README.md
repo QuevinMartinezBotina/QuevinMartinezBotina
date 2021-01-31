@@ -6,3 +6,4 @@
 Un progrmador con  
 
 ?style=for-the-badge&logo=appveyor
+?style=for-the-badge&logo=appveyor
