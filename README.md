@@ -22,7 +22,7 @@
   - Diseños responsive junto con css
 
 📗 CSS
-  - Manejo de preprocesadores ##SASS y ##LESS
+  - Manejo de preprocesadores SASS y LESS
   - Animaciones 
   - Manejo de responsive 
 
