@@ -87,8 +87,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/quevinmartinezbotina/quevinmartinezbotina/blob/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -106,4 +104,3 @@
 </div>
 
 ###
-Profile Readme Generator
