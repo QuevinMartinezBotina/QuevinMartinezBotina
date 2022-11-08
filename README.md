@@ -15,15 +15,15 @@
 
 ###
 
-<h2 align="left">Backend</h2>
+<h2 align="center">Backend</h2>
 
 ###
 
-<p align="left">Backend development is one of the sections in which I perform best, especially with Node.js and Lavarel.</p>
+<p align="center">Backend development is one of the sections in which I perform best, especially with Node.js and Lavarel.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
@@ -32,15 +32,15 @@
 
 ###
 
-<h2 align="left">Frontend</h2>
+<h2 align="center">Frontend</h2>
 
 ###
 
-<p align="left">Skills in layout, responsive design with a very good handling of Bootstrap</p>
+<p align="center">Skills in layout, responsive design with a very good handling of Bootstrap</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="52" alt="html5 logo"  />
@@ -52,15 +52,15 @@
 
 ###
 
-<h2 align="left">Data Base</h2>
+<h2 align="center">Data Base</h2>
 
 ###
 
-<p align="left">Knowledge in database managers, MySQL and advanced queries.</p>
+<p align="center">Knowledge in database managers, MySQL and advanced queries.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" width="52" alt="postgresql logo"  />
@@ -69,15 +69,15 @@
 
 ###
 
-<h2 align="left">Other technologies</h2>
+<h2 align="center">Other technologies</h2>
 
 ###
 
-<p align="left">Advanced knowledge of GitHub and version control, among other technologies.</p>
+<p align="center">Advanced knowledge of GitHub and version control, among other technologies.</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
@@ -86,6 +86,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/quevinmartinezbotina/quevinmartinezbotina/blob/output/snake.svg" alt="Snake animation" />
 
